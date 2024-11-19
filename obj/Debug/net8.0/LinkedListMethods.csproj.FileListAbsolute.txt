@@ -1,0 +1,14 @@
+D:\homeworke\LinkedListMethods\bin\Debug\net8.0\LinkedListMethods.exe
+D:\homeworke\LinkedListMethods\bin\Debug\net8.0\LinkedListMethods.deps.json
+D:\homeworke\LinkedListMethods\bin\Debug\net8.0\LinkedListMethods.runtimeconfig.json
+D:\homeworke\LinkedListMethods\bin\Debug\net8.0\LinkedListMethods.dll
+D:\homeworke\LinkedListMethods\bin\Debug\net8.0\LinkedListMethods.pdb
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.AssemblyInfoInputs.cache
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.AssemblyInfo.cs
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.csproj.CoreCompileInputs.cache
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.dll
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\refint\LinkedListMethods.dll
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.pdb
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\LinkedListMethods.genruntimeconfig.cache
+D:\homeworke\LinkedListMethods\obj\Debug\net8.0\ref\LinkedListMethods.dll
